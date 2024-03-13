@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    // this helps us to use absolute path
+    // we can use this type of syntax now import Header from '@/components/header' @ refers to root level of project
     "paths": {
       "@/*": ["./*"]
     }
