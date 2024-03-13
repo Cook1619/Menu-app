@@ -1,4 +1,4 @@
-const ShareMealsPage = () => { 
+const ShareMealPage = () => { 
     return (
         <div>
             <h1>Share your meals</h1>
@@ -7,4 +7,4 @@ const ShareMealsPage = () => {
     )
 }
 
-export default ShareMealsPage;
+export default ShareMealPage;

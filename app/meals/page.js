@@ -1,8 +1,8 @@
-const Meals = () => {
+const MealsPage = () => {
     return (
         <div>
             <h1>Meals</h1>
         </div>
     )
 }
-export default Meals;
+export default MealsPage;
